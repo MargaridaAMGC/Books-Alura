@@ -29,6 +29,7 @@
     position: absolute;
     top: 100%;
     width: 60vw;
+    z-index: 2;
 }
 
 .container__botao:checked~.lista-menu {
@@ -83,6 +84,7 @@
 
     .opcoes {
         display: flex;
+        align-items: center;
     }
 
     .opcoes__item {
