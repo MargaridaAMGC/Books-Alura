@@ -31,5 +31,5 @@
     color: var(--branco);
     text-align: center;
     background: url("/assets/Pesquisa.svg") no-repeat;
-    background-position: 0.2em;
+    background-position: 0.1em 0.2em;
 }
